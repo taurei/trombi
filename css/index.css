@@ -1,5 +1,5 @@
 .image{
-        background-image: url('../Trombi/image/marcheregimentaire.jpg');
+        background-image: url('/image/marcheregimentaire.jpg');
         height: 100vh;
         width: 100%;
         margin: auto;
@@ -37,7 +37,7 @@ h2
 
 .voir
     {
-        background-image: url('../Trombi/image/marcheregimentaire.jpg');
+        background-image: url('/image/marcheregimentaire.jpg');
         height: 220vh;
         width: 100%;
         margin: auto;
